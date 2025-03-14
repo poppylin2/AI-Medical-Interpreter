@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgGc/wNBXsj41ulsSDPDJuAyT9dATsZirRO7gvO1C03fVH9TiB5kAGfrGZC5HE8L90YO0+D4ibQvLu22/m1mxg==",
+  "success": true,
+  "projectFilePath": "D:\\CppProjects\\AI-Medical-Interpreter\\src\\DesktopApp\\DesktopApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Y\\.nuget\\packages\\microsoft.web.webview2\\1.0.3124.44\\microsoft.web.webview2.1.0.3124.44.nupkg.sha512"
+  ],
+  "logs": []
+}
